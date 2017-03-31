@@ -1,0 +1,28 @@
+{
+  "name": "sc-diff-sync-rethink",
+  "version": "1.0.0",
+  "description": "Differential synchronization server plugin for SocketCluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocketCluster/sc-diff-sync-rethink.git"
+  },
+  "keywords": [
+    "socketcluster",
+    "differential",
+    "synchronization",
+    "sync"
+  ],
+  "author": "Jonathan Gros-Dubois",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SocketCluster/sc-diff-sync-rethink/issues"
+  },
+  "homepage": "https://github.com/SocketCluster/sc-diff-sync-rethink#readme",
+  "dependencies": {
+    "diff-match-patch": "^1.0.0"
+  }
+}
